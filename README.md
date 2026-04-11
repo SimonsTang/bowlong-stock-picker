@@ -154,3 +154,13 @@ MIT License
 
 *In memory of 波龙 (1995-2026)*
 *"有钱就有未来"*
+
+## V2.1 价值投资优化版
+
+新增文件：
+- stock_picker_v2_optimized.py - 完整版
+- stock_picker_v2_light.py - 轻量版
+- compare_pickers.py - 对比演示
+- OPTIMIZATION_V2.1.md - 优化文档
+### 核心改进
+从追涨杀跌转变为价值投资导向，避免高位接盘风险。
